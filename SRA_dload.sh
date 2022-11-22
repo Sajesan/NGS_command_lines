@@ -1,0 +1,1 @@
+nextflow run nf-core/fetchngs -r 1.4 --input id.txt --outdir ./ -profile singularity
